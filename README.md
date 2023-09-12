@@ -2,7 +2,7 @@
 
 Meu nome é Samuel de campos 
 
-- Estou estudando no Alura 
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartihamento dos meu projetos desenvolvidos
 
@@ -10,3 +10,6 @@ Meu nome é Samuel de campos
 
 RealSamuel09@gmail.com
 @rlx_smzinn_02
+
+
+![](https://media.tenor.com/PKKCAakpBZIAAAAC/neyney-neymar.gif)
