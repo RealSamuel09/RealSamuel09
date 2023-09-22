@@ -13,4 +13,5 @@ RealSamuel09@gmail.com
 
 
 ![](https://media.tenor.com/PKKCAakpBZIAAAAC/neyney-neymar.gif)
-![](https://media.tenor.com/f5wO6QbCy1cAAAAi/vs-imposter-fnf-tomongus.gif)
+![](![image](https://github.com/RealSamuel09/RealSamuel09/assets/144147316/ab0cf949-21c2-4742-a4ef-2025f1a63794)
+)
